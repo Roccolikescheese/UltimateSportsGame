@@ -387,4 +387,3 @@ Defense (50-99) → Defensive Power & Reach
 ---
 
 **Complete player model system ready for all 9 sports with customization and gameplay!** 🎮
-
